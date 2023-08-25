@@ -1,0 +1,32 @@
+{
+    "name": "@nordcom/wordpress-headless-theme",
+    "description": "A WordPress headless theme to disable the frontend and automatically redirect users.",
+    "version": "0.1.0",
+    "prettier": "@nordcom/prettier",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NordcomInc/wordpress-headless-theme.git"
+    },
+    "author": {
+        "name": "Nordcom Group Inc.",
+        "email": "opensource@nordcom.io",
+        "url": "https://nordcom.io/"
+    },
+    "contributors": [
+        {
+            "name": "Filiph Siitam Sandström",
+            "email": "filiph@nordcom.io",
+            "url": "https://github.com/filiphsps/"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/NordcomInc/wordpress-headless-theme/issues/"
+    },
+    "homepage": "https://github.com/NordcomInc/wordpress-headless-theme/",
+    "dependencies": {},
+    "devDependencies": {
+        "@nordcom/prettier": "0.1.1",
+        "prettier": "3.0.2"
+    }
+}
